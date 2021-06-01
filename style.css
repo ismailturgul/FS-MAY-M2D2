@@ -7,7 +7,7 @@
   min-height: 100vh;
 }
 
-#menu {
+#bio {
   min-width: 10%;
   width: 10%;
   background-color: darkgray;
@@ -21,7 +21,10 @@
   max-width: 80rem;
   overflow: hidden;
 }
-
+.header {
+  text-align: center;
+  background-color: grey;
+}
 .card-body {
   background-color: rgb(160, 139, 139);
   max-width: 50rem;
