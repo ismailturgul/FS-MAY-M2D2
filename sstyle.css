@@ -9,3 +9,51 @@ body {
 .footer {
   background-color: #3f71a3 !important;
 }
+
+nav {
+  border-radius: 14px;
+  height: 7vh;
+}
+
+.album-title {
+  margin-top: 0.5em;
+  margin-bottom: 0px;
+  color: #eb7a39;
+  border-radius: 10px;
+}
+
+.album-artist,
+.ablum-gerne {
+  color: white;
+  text-align: center;
+}
+
+.album-artist:after {
+  content: " - ";
+  padding-top: 10px;
+}
+
+.album-container {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.album-container img {
+  width: 250px;
+  height: 250px;
+}
+
+.album-container p {
+  color: white;
+}
+
+#best-Album-Ever {
+  background-color: #eb7a39;
+}
+
+section {
+  min-height: 93vh;
+}
+
+.d-block {
+}
